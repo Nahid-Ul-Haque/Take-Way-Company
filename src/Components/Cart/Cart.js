@@ -15,12 +15,12 @@ const Cart = (props) => {
 
             <ul>
                 {
-                    cart.map(pd => <li className='text-secondary'>{pd.name}</li>)
+                    cart.map(pd => <li className='text-white'>{pd.name}</li>)
                 }
             </ul>
-            <h4 className='text-secondary'>Total: {total}$</h4>
-            <h4 className='text-secondary'>Tax: {tax}$</h4>
-            <h4 className='text-secondary'>Total Price: {totalPrice}$</h4>
+            <h4 className='text-white'>Total: {total}$</h4>
+            <h4 className='text-white'>Tax: {tax}$</h4>
+            <h4 className='text-white'>Total Price: {totalPrice}$</h4>
 
 
         </div>

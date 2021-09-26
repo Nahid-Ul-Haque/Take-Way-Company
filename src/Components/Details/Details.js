@@ -10,7 +10,7 @@ const Details = (props) => {
         <div className="col-md-4 g-4">
             <div className="col">
                 <div className="card card-container">
-                    <img src={img} style={{ 'height': '200px' }} alt="" />
+                    <img src={img} style={{ 'height': '250px' }} alt="" />
                     <div className="card-body">
                         <h5 className="card-title text-white"><small>Name: {name}</small></h5>
                         <p className="card-text text-white"><small>Brand: {brand}</small></p>

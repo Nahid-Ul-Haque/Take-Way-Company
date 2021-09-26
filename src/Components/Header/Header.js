@@ -48,6 +48,9 @@ const Header = () => {
                     <span className="navbar-brand mb-0 h1">Project Budget: $100 million</span>
                 </div>
             </nav>
+            <div>
+                <h2 className='text-center text-danger'>"All of those cars were once just a dream someone's head"</h2>
+            </div>
         </section>
 
 
