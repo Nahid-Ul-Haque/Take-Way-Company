@@ -1,0 +1,122 @@
+[
+    {
+        "key": "001",
+        "name": "Bugatti La Voiture Noire",
+        "brand": "Bugatti",
+        "Price": 1900000,
+        "speed": "261 mph",
+        "engin": "8.0 L W16",
+        "year": 2019,
+        "img": "https://images.news18.com/ibnlive/uploads/2021/06/1622880534_bugatti-la-voiture-noire-definitive-1.jpg"
+    },
+    {
+        "key": "002",
+        "name": "Pagani Zonda HP Barchetta",
+        "brand": "Pagani",
+        "Price": 1750000,
+        "speed": "210 mph",
+        "engin": "7.3L V12",
+        "year": 2018,
+        "img": "http://www.supercarworld.com/images/fullpics/851.jpg"
+    },
+    {
+        "key": "003",
+        "name": "Rolls Royce Sweptails",
+        "brand": "Rolls Royce",
+        "Price": 1300000,
+        "speed": "150 mph",
+        "engin": "6.75L V12",
+        "year": 2017,
+        "img": "https://cdn.motor1.com/images/mgl/lP03l/s1/rolls-royce-sweptail-at-villa-deste.jpg"
+    },
+    {
+        "key": "004",
+        "name": "Bugatti Centodieci",
+        "brand": "Bugatti",
+        "Price": 900000,
+        "speed": "236 mph",
+        "engin": "8.0L W16 (Gas)",
+        "year": 2020,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bugatti-Centodieci.jpg"
+    },
+    {
+        "key": "005",
+        "name": "Mercedes-Maybach Exelero",
+        "brand": "Mercedes",
+        "Price": 800000,
+        "speed": "217 mph",
+        "engin": "5.5L Twin-Turbo V12",
+        "year": 2005,
+        "img": "https://drivetribe.imgix.net/SF5tmYmYREG59p4A-pg-VQ"
+    },
+    {
+        "key": "006",
+        "name": "Bugatti Divo",
+        "brand": "Bugatti",
+        "speed": "236 mph",
+        "Price": 600000,
+        "engin": "8.0L W16",
+        "year": 2020,
+        "img": "https://cdn.motor1.com/images/mgl/gZlkg/s3/bugatti-divo-front-view.jpg"
+    },
+    {
+        "key": "007",
+        "name": "Pagani Huayra Imola",
+        "brand": "Pagani",
+        "speed": "236 mph",
+        "Price": 540000,
+        "engin": "6.0L V12",
+        "year": 2019,
+        "img": "https://media1.nguoiduatin.vn/media/bien-tap-vien/2019/09/03/pagani-huayra-imola.jpg"
+    },
+    {
+        "key": "008",
+        "name": "Lamborghini Veneno",
+        "brand": "Lamborghini",
+        "Price": 450000,
+        "speed": "221 mph",
+        "engin": "6.5L L539 V12",
+        "year": 2013,
+        "img": "https://www.alainclass.com/wp-content/uploads/2019/07/2-VENENO.jpg"
+    },
+    {
+        "key": "009",
+        "name": "McLaren P1 LM",
+        "brand": "McLaren",
+        "Price": 360000,
+        "speed": "147 mph",
+        "engin": "3.8L twin-turbocharged M838TQ V8",
+        "year": 2013,
+        "img": "https://www.topgear.com/sites/default/files/news-listicle/image/lanzante_1.jpg"
+    },
+    {
+        "key": "010",
+        "name": "Lykan HyperSpor",
+        "brand": "Lykan",
+        "Price": 340000,
+        "speed": "240 mph",
+        "engin": "3.7L twin-turbocharged flat-six",
+        "year": 2013,
+        "img": "https://www.motorbiscuit.com/wp-content/uploads/2020/06/Lykan-Hypersport-cover-1024x512.jpg"
+    },
+    {
+        "key": "011",
+        "name": "Bugatti Veyron Mansory Vivere",
+        "brand": "Bugatti",
+        "Price": 340000,
+        "speed": "253mph",
+        "engin": "8.0L",
+        "year": 2005,
+        "img": "https://cdn.carbuzz.com/gallery-images/840x560/271000/100/271130.jpg"
+    },
+    {
+        "key": "012",
+        "name": "Aston Martin AM-RB 001",
+        "brand": "Aston Martin",
+        "Price": 320000,
+        "speed": "250mph",
+        "engin": "6.5L Cosworth naturally-aspirated V12",
+        "year": 2018,
+        "img": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/16q2/667719/2018-aston-martin-red-bull-am-rb-001-revealed-news-car-and-driver-photo-669351-s-original.jpg"
+    }
+]

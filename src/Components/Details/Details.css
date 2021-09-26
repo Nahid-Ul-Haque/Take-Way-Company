@@ -1,0 +1,11 @@
+.cart-btn{
+    background-color:crimson;
+    color: black;
+    border-radius: 10px;
+    padding: 6px;
+    border: none;
+}
+.cart-btn:hover{
+    background-color: darkgray;
+    color: black;
+}
