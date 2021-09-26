@@ -12,11 +12,11 @@ const Details = (props) => {
                 <div className="card card-container">
                     <img src={img} style={{ 'height': '200px' }} alt="" />
                     <div className="card-body">
-                        <h5 className="card-title text-secondary"><small>Name: {name}</small></h5>
-                        <p className="card-text text-secondary"><small>Brand: {brand}</small></p>
-                        <p className="card-text text-secondary"><small>Engine: {engin}</small></p>
-                        <p className="card-text text-secondary"><small>Speed: {speed}</small></p>
-                        <p className="card-text text-secondary"><small>Price: {Price}</small></p>
+                        <h5 className="card-title text-white"><small>Name: {name}</small></h5>
+                        <p className="card-text text-white"><small>Brand: {brand}</small></p>
+                        <p className="card-text text-white"><small>Engine: {engin}</small></p>
+                        <p className="card-text text-white"><small>Speed: {speed}</small></p>
+                        <p className="card-text text-white"><small>Price: {Price}</small></p>
                         <button onClick={() => props.handleAddCart(props.car)}
                             className='cart-btn'><i className="fas fa-shopping-cart"></i>Add to cart</button>
                     </div>
