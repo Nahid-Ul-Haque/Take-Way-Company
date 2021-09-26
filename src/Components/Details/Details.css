@@ -9,3 +9,7 @@
     background-color: darkgray;
     color: black;
 }
+.card-container{
+    background-color: black;
+    border: 1px solid gray;
+}
