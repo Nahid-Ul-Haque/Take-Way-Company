@@ -4,7 +4,6 @@ import './Details.css'
 const Details = (props) => {
 
     const { name, img, Price, brand, engin, speed } = props.car || {};
-    console.log(props.car)
 
     return (
         <div className="col-md-4 g-4">
@@ -22,7 +21,7 @@ const Details = (props) => {
                     </div>
                 </div>
             </div>
-        </div>
+        </div >
     );
 };
 

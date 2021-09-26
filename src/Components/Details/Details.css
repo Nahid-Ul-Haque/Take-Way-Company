@@ -13,3 +13,9 @@
     background-color: black;
     border: 1px solid red;
 }
+.card-container h5{
+    text-shadow: 2px 2px 5px red;
+}
+.card-container:hover{
+    box-shadow: 5px 10px 10px maroon;
+}
